@@ -1,3 +1,6 @@
+#methods processing the data were taken from http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/ 
+#with the matricies outputted, I'm able to put them in sklearn MLP for classification
+
 import librosa
 import numpy as np
 import matplotlib.pyplot as plt
